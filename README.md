@@ -1,7 +1,7 @@
 
  <!---------------------------------- Heading Section ------------------------------->
 <h1 align="center">
-    <a href="#">Hi, I'm Irirwanirira Joseph!!!</a>
+    <a href="#">Hi, I'm Kaweesi Matia!!!</a>
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
@@ -40,7 +40,7 @@
 <p align="center">
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Irirwanirira&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="Irirwanirira" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Irirwanirira&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="kaweesi" />
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Irirwanirira&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="Irirwanirira" />
  
