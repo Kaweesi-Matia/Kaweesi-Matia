@@ -59,7 +59,7 @@
     <a href="https://twitter.com/kaweesimatia">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/kaweesimatia" />
     <a title="Kaweesi Matia" href="matiakaweesi@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="irijoseph41@gmail.com" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="matiakaweesi@gmail.com" />
     </a>
 </p>
 <br>
