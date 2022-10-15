@@ -53,12 +53,12 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/joseph-irirwanirira-74666623a/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/joseph-irirwanirira-74666623a" />
+    <a href="https://www.linkedin.com/in/kaweesi-matia/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kaweesi-matia/" />
     </a>
-    <a href="https://twitter.com/Irirwanirira">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Irirwanirira" />
-    <a title="Irirwanirira Joseph" href="mailto:irijoseph41@gmail.com">
+    <a href="https://twitter.com/kaweesimatia">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/kaweesimatia" />
+    <a title="Kaweesi Matia" href="matiakaweesi@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="irijoseph41@gmail.com" />
     </a>
 </p>
